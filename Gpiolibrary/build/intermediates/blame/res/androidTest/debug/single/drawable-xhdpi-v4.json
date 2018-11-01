@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\JobProject\\Ruiduoyi_Bangbao\\Gpiolibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\JobProject\\Ruiduoyi_Bangbao\\Gpiolibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\JobProject\\Ruiduoyi_YaLun\\Gpiolibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\JobProject\\Ruiduoyi_YaLun\\Gpiolibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\JobProject\\Ruiduoyi_YaLun\\Gpiolibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app.png",
+        "source": "D:\\JobProject\\Ruiduoyi_YaLun\\Gpiolibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app.png"
+    },
+    {
+        "merged": "D:\\JobProject\\Ruiduoyi_Bangbao\\Gpiolibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app.png",
+        "source": "D:\\JobProject\\Ruiduoyi_Bangbao\\Gpiolibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app.png"
+    }
+]

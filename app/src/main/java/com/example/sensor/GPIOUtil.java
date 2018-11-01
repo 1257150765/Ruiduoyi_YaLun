@@ -55,9 +55,9 @@ public class GPIOUtil {
                             level2 = pb2;
                             if (listener != null){
                                 if (level2 == 0){
-                                    listener.onChange(1,true);
+                                    listener.onChange(2,true);
                                 }else if (level2 == 1){
-                                    listener.onChange(1,false);
+                                    listener.onChange(2,false);
                                 }
                             }
                         }
